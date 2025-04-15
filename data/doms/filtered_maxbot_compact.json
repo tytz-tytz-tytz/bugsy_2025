@@ -1,0 +1,1754 @@
+{
+  "elements": [
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Конструктор рассылкиУсловия начала рассылкиСтатистикаЖурналЦелеваяНе запущенаНачать сразу после "
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Конструктор рассылкиУсловия начала рассылкиСтатистикаЖурналЦелеваяНе запущенаНачать сразу после "
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Конструктор рассылкиУсловия начала рассылкиСтатистикаЖурналЦелеваяНе запущена"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Конструктор рассылкиУсловия начала рассылкиСтатистикаЖурнал"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": "toolbar",
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Конструктор рассылкиУсловия начала рассылкиСтатистикаЖурнал"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": "tablist",
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Конструктор рассылкиУсловия начала рассылкиСтатистикаЖурнал"
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "name": "Конструктор рассылки",
+      "id": "Pivot828-Tab0",
+      "role": "tab",
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Конструктор рассылки"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Конструктор рассылки"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Конструктор рассылки"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Конструктор рассылки"
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "name": "Условия начала рассылки",
+      "id": "Pivot828-Tab1",
+      "role": "tab",
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Условия начала рассылки"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Условия начала рассылки"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Условия начала рассылки"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Условия начала рассылки"
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "name": "Статистика",
+      "id": "Pivot828-Tab2",
+      "role": "tab",
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Статистика"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Статистика"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Статистика"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Статистика"
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "name": "Журнал",
+      "id": "Pivot828-Tab3",
+      "role": "tab",
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Журнал"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Журнал"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Журнал"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Журнал"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "ЦелеваяНе запущена"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "ЦелеваяНе запущена"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Целевая"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Целевая"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Не запущена"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Не запущена"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Не запущена"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Не запущена"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": ""
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": ""
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": ""
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Начать сразу после запуска рассылкиСохранитьРассылка\n                начнётся сразу после запуска д"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Начать сразу после запуска рассылкиСохранитьРассылка\n                начнётся сразу после запуска д"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Начать сразу после запуска рассылкиСохранитьРассылка\n                начнётся сразу после запуска д"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Начать сразу после запуска рассылкиСохранить"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Начать сразу после запуска рассылки"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": "Dropdown934",
+      "role": "listbox",
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Начать сразу после запуска рассылки"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": "Dropdown934-option",
+      "role": "option",
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Начать сразу после запуска рассылки"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Сохранить"
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Сохранить"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Сохранить"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Сохранить"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": "id__935",
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Сохранить"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Рассылка\n                начнётся сразу после запуска для всех клиентовЦелевая аудиторияЗагрузите ф"
+    },
+    {
+      "tag": "label",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Рассылка\n                начнётся сразу после запуска для всех клиентов"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Целевая аудиторияЗагрузите файл с описанием\n                            аудитории"
+    },
+    {
+      "tag": "label",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Целевая аудитория"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Загрузите файл с описанием\n                            аудитории"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Загрузите файл с описанием\n                            аудитории"
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Загрузите файл с описанием\n                            аудитории"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Загрузите файл с описанием\n                            аудитории"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Загрузите файл с описанием\n                            аудитории"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": "id__988",
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Загрузите файл с описанием\n                            аудитории"
+    },
+    {
+      "tag": "input",
+      "type": "file",
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Ограничивать время начала\n                        рассылок"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Ограничивать время начала\n                        рассылок"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Ограничивать время начала\n                        рассылок"
+    },
+    {
+      "tag": "input",
+      "type": "checkbox",
+      "name": null,
+      "id": "checkbox-991",
+      "role": null,
+      "aria_label": "Ограничивать время начала рассылок",
+      "placeholder": null,
+      "text": ""
+    },
+    {
+      "tag": "label",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Ограничивать время начала\n                        рассылок"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": ""
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Ограничивать время начала\n                        рассылок"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Сообщения рассылки будут отправляться в любое времякроме днейкроме времениСбВс01234567822"
+    },
+    {
+      "tag": "label",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Сообщения рассылки будут отправляться в любое время"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "кроме днейкроме времениСбВс0123456782223"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "кроме днейкроме времени"
+    },
+    {
+      "tag": "label",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "кроме дней"
+    },
+    {
+      "tag": "label",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "кроме времени"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "СбВс0123456782223"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "СбВс"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": "combobox-id__993",
+      "role": "combobox",
+      "aria_label": null,
+      "placeholder": null,
+      "text": "СбВс"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": "presentation",
+      "aria_label": null,
+      "placeholder": null,
+      "text": "СбВс"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "СбВс"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": "selected-items-id__993",
+      "role": "list",
+      "aria_label": null,
+      "placeholder": null,
+      "text": "СбВс"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": "listitem",
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Сб"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": "Сб",
+      "placeholder": null,
+      "text": "Сб"
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": "listitem",
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Вс"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": "Вс",
+      "placeholder": null,
+      "text": "Вс"
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": ""
+    },
+    {
+      "tag": "input",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": "textbox",
+      "aria_label": null,
+      "placeholder": null,
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "0123456782223"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": "combobox-id__1001",
+      "role": "combobox",
+      "aria_label": null,
+      "placeholder": null,
+      "text": "0123456782223"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": "presentation",
+      "aria_label": null,
+      "placeholder": null,
+      "text": "0123456782223"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "0123456782223"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": "selected-items-id__1001",
+      "role": "list",
+      "aria_label": null,
+      "placeholder": null,
+      "text": "0123456782223"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": "listitem",
+      "aria_label": null,
+      "placeholder": null,
+      "text": "0"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": "0",
+      "placeholder": null,
+      "text": "0"
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": "listitem",
+      "aria_label": null,
+      "placeholder": null,
+      "text": "1"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": "1",
+      "placeholder": null,
+      "text": "1"
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": "listitem",
+      "aria_label": null,
+      "placeholder": null,
+      "text": "2"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": "2",
+      "placeholder": null,
+      "text": "2"
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": "listitem",
+      "aria_label": null,
+      "placeholder": null,
+      "text": "3"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": "3",
+      "placeholder": null,
+      "text": "3"
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": "listitem",
+      "aria_label": null,
+      "placeholder": null,
+      "text": "4"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": "4",
+      "placeholder": null,
+      "text": "4"
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": "listitem",
+      "aria_label": null,
+      "placeholder": null,
+      "text": "5"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": "5",
+      "placeholder": null,
+      "text": "5"
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": "listitem",
+      "aria_label": null,
+      "placeholder": null,
+      "text": "6"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": "6",
+      "placeholder": null,
+      "text": "6"
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": "listitem",
+      "aria_label": null,
+      "placeholder": null,
+      "text": "7"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": "7",
+      "placeholder": null,
+      "text": "7"
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": "listitem",
+      "aria_label": null,
+      "placeholder": null,
+      "text": "8"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": "8",
+      "placeholder": null,
+      "text": "8"
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": "listitem",
+      "aria_label": null,
+      "placeholder": null,
+      "text": "22"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": "22",
+      "placeholder": null,
+      "text": "22"
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": "listitem",
+      "aria_label": null,
+      "placeholder": null,
+      "text": "23"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": "23",
+      "placeholder": null,
+      "text": "23"
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": ""
+    },
+    {
+      "tag": "input",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": "textbox",
+      "aria_label": null,
+      "placeholder": null,
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Расширенные\n                            настройкиОстанавливать рассылку для клиентовПолучивших один"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Расширенные\n                            настройки"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Расширенные\n                            настройки"
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Расширенные\n                            настройки"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Расширенные\n                            настройки"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Расширенные\n                            настройки"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": "id__1036",
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Расширенные\n                            настройки"
+    },
+    {
+      "tag": "label",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Расширенные\n                            настройки"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Останавливать рассылку для клиентовПолучивших один из\n                            теговУ которых уда"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Останавливать рассылку для клиентовПолучивших один из\n                            теговУ которых уда"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Останавливать рассылку для клиентовПолучивших один из\n                            теговУ которых уда"
+    },
+    {
+      "tag": "label",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Останавливать рассылку для клиентов"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Получивших один из\n                            теговУ которых удалён один из\n                       "
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Получивших один из\n                            теговУ которых удалён один из\n                       "
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Получивших один из\n                            тегов"
+    },
+    {
+      "tag": "label",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Получивших один из\n                            тегов"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": "combobox-id__1039",
+      "role": "combobox",
+      "aria_label": null,
+      "placeholder": null,
+      "text": ""
+    },
+    {
+      "tag": "input",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": "textbox",
+      "aria_label": null,
+      "placeholder": null,
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "У которых удалён один из\n                            тегов"
+    },
+    {
+      "tag": "label",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "У которых удалён один из\n                            тегов"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": "combobox-id__1041",
+      "role": "combobox",
+      "aria_label": null,
+      "placeholder": null,
+      "text": ""
+    },
+    {
+      "tag": "input",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": "textbox",
+      "aria_label": null,
+      "placeholder": null,
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Отправлять клиентам, которые уже\n                          получали эту рассылку"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Отправлять клиентам, которые уже\n                          получали эту рассылку"
+    },
+    {
+      "tag": "input",
+      "type": "checkbox",
+      "name": null,
+      "id": "checkbox-1043",
+      "role": null,
+      "aria_label": "Отправлять клиентам, которые уже получали эту рассылку",
+      "placeholder": null,
+      "text": ""
+    },
+    {
+      "tag": "label",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Отправлять клиентам, которые уже\n                          получали эту рассылку"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": ""
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Отправлять клиентам, которые уже\n                          получали эту рассылку"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Отправлять сообщения даже если клиент\n                          отписался от рассылок"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Отправлять сообщения даже если клиент\n                          отписался от рассылок"
+    },
+    {
+      "tag": "input",
+      "type": "checkbox",
+      "name": null,
+      "id": "checkbox-1044",
+      "role": null,
+      "aria_label": "Отправлять сообщения даже если клиент отписался от рассылок",
+      "placeholder": null,
+      "text": ""
+    },
+    {
+      "tag": "label",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Отправлять сообщения даже если клиент\n                          отписался от рассылок"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": ""
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Отправлять сообщения даже если клиент\n                          отписался от рассылок"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "SMS-провайдерnew1"
+    },
+    {
+      "tag": "label",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "SMS-провайдер"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "new1"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "new1"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "new1"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": "Dropdown1045",
+      "role": "listbox",
+      "aria_label": null,
+      "placeholder": null,
+      "text": "new1"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": "Dropdown1045-option",
+      "role": "option",
+      "aria_label": null,
+      "placeholder": null,
+      "text": "new1"
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Тэги сообщенийНе задаватьДокументация Facebook"
+    },
+    {
+      "tag": "label",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Тэги сообщений"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Не задавать"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Не задавать"
+    },
+    {
+      "tag": "div",
+      "type": null,
+      "name": null,
+      "id": "Dropdown1049",
+      "role": "listbox",
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Не задавать"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": "Dropdown1049-option",
+      "role": "option",
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Не задавать"
+    },
+    {
+      "tag": "span",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Документация Facebook"
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "name": null,
+      "id": null,
+      "role": null,
+      "aria_label": null,
+      "placeholder": null,
+      "text": "Документация Facebook"
+    }
+  ]
+}

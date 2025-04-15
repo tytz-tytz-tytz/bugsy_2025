@@ -1,0 +1,12 @@
+beautifulsoup4
+nltk
+numpy
+pandas
+regex
+rich
+sentence-transformers
+tqdm
+typer[all]
+PyMuPDF
+faiss-cpu
+pymorphy2
