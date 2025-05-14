@@ -19,7 +19,8 @@
 
 ### Граф структуры документа
 - Отдельный граф, описывающий структуру всей документации:  
-  [`data/dom_graph.html`](data/dom_graph.html)
+  [`dom_graph.html`](dom_graph.html)
+  [`dom_structure.json`](dom_structure.json)
 
 ## Поисковый прототип
 
