@@ -1,0 +1,22 @@
+[project]
+name = "bugsy_2025"
+version = "0.1.0"
+description = "Проект для построения DOM-структуры документации на основе PDF"
+authors = [
+    {name = "Alexandra Reshetnikova"}
+]
+dependencies = [
+    "pdfminer.six",
+    "networkx",
+    "pandas",
+    "matplotlib",
+    "scipy",
+    "pyvis"
+]
+
+[tool.setuptools]
+packages = ["dom", "scripts", "tests","preprocessing"]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"

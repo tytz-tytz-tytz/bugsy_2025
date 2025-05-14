@@ -1,0 +1,12 @@
+pdfminer.six
+networkx
+pandas
+matplotlib
+scipy
+pyvis
+setuptools
+PyMuPDF
+scikit-learn>=1.0
+nltk>=3.8
+sentence-transformers
+snowballstemmer

@@ -1,0 +1,6 @@
+pdfminer.six
+networkx
+pandas
+matplotlib
+scipy
+pyvis

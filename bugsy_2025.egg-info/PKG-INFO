@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: bugsy_2025
+Version: 0.1.0
+Summary: Проект для построения DOM-структуры документации на основе PDF
+Author: Alexandra Reshetnikova
+Requires-Dist: pdfminer.six
+Requires-Dist: networkx
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: scipy
+Requires-Dist: pyvis
