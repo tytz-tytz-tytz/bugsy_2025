@@ -1,0 +1,779 @@
+{
+  "nodes": [
+    {
+      "id": "блок",
+      "title": "блок",
+      "level": 1,
+      "is_leaf": true
+    },
+    {
+      "id": "мессенджер",
+      "title": "мессенджер",
+      "level": 1,
+      "is_leaf": true
+    },
+    {
+      "id": "тип",
+      "title": "тип",
+      "level": 1,
+      "is_leaf": true
+    },
+    {
+      "id": "аргумент",
+      "title": "аргумент",
+      "level": 1,
+      "is_leaf": true
+    },
+    {
+      "id": "диалог",
+      "title": "диалог",
+      "level": 1,
+      "is_leaf": true
+    },
+    {
+      "id": "тест",
+      "title": "тест",
+      "level": 1,
+      "is_leaf": true
+    },
+    {
+      "id": "настройк",
+      "title": "настройк",
+      "level": 1,
+      "is_leaf": true
+    },
+    {
+      "id": "событ",
+      "title": "событ",
+      "level": 1,
+      "is_leaf": true
+    },
+    {
+      "id": "ограничен",
+      "title": "ограничен",
+      "level": 1,
+      "is_leaf": true
+    },
+    {
+      "id": "рассылк",
+      "title": "рассылк",
+      "level": 1,
+      "is_leaf": true
+    },
+    {
+      "id": "редактирован",
+      "title": "редактирован",
+      "level": 1,
+      "is_leaf": true
+    },
+    {
+      "id": "интерфейс",
+      "title": "интерфейс",
+      "level": 1,
+      "is_leaf": true
+    },
+    {
+      "id": "идентификатор",
+      "title": "идентификатор",
+      "level": 1,
+      "is_leaf": true
+    },
+    {
+      "id": "тег",
+      "title": "тег",
+      "level": 1,
+      "is_leaf": true
+    },
+    {
+      "id": "макрос",
+      "title": "макрос",
+      "level": 1,
+      "is_leaf": true
+    },
+    {
+      "id": "валидац",
+      "title": "валидац",
+      "level": 1,
+      "is_leaf": true
+    },
+    {
+      "id": "пользователь",
+      "title": "пользователь",
+      "level": 1,
+      "is_leaf": true
+    },
+    {
+      "id": "ошибк",
+      "title": "ошибк",
+      "level": 1,
+      "is_leaf": true
+    }
+  ],
+  "edges": [
+    {
+      "source": "блок",
+      "target": "аргумент",
+      "weight": 4
+    },
+    {
+      "source": "блок",
+      "target": "диалог",
+      "weight": 5
+    },
+    {
+      "source": "блок",
+      "target": "идентификатор",
+      "weight": 11
+    },
+    {
+      "source": "блок",
+      "target": "макрос",
+      "weight": 6
+    },
+    {
+      "source": "блок",
+      "target": "мессенджер",
+      "weight": 6
+    },
+    {
+      "source": "блок",
+      "target": "настройк",
+      "weight": 8
+    },
+    {
+      "source": "блок",
+      "target": "ограничен",
+      "weight": 4
+    },
+    {
+      "source": "блок",
+      "target": "ошибк",
+      "weight": 7
+    },
+    {
+      "source": "блок",
+      "target": "рассылк",
+      "weight": 20
+    },
+    {
+      "source": "блок",
+      "target": "редактирован",
+      "weight": 1
+    },
+    {
+      "source": "блок",
+      "target": "событ",
+      "weight": 11
+    },
+    {
+      "source": "блок",
+      "target": "тег",
+      "weight": 5
+    },
+    {
+      "source": "блок",
+      "target": "тест",
+      "weight": 3
+    },
+    {
+      "source": "блок",
+      "target": "тип",
+      "weight": 8
+    },
+    {
+      "source": "блок",
+      "target": "интерфейс",
+      "weight": 2
+    },
+    {
+      "source": "мессенджер",
+      "target": "диалог",
+      "weight": 3
+    },
+    {
+      "source": "мессенджер",
+      "target": "рассылк",
+      "weight": 21
+    },
+    {
+      "source": "мессенджер",
+      "target": "аргумент",
+      "weight": 5
+    },
+    {
+      "source": "мессенджер",
+      "target": "идентификатор",
+      "weight": 15
+    },
+    {
+      "source": "мессенджер",
+      "target": "макрос",
+      "weight": 6
+    },
+    {
+      "source": "мессенджер",
+      "target": "настройк",
+      "weight": 8
+    },
+    {
+      "source": "мессенджер",
+      "target": "ограничен",
+      "weight": 3
+    },
+    {
+      "source": "мессенджер",
+      "target": "ошибк",
+      "weight": 5
+    },
+    {
+      "source": "мессенджер",
+      "target": "редактирован",
+      "weight": 4
+    },
+    {
+      "source": "мессенджер",
+      "target": "событ",
+      "weight": 18
+    },
+    {
+      "source": "мессенджер",
+      "target": "тег",
+      "weight": 8
+    },
+    {
+      "source": "мессенджер",
+      "target": "тест",
+      "weight": 4
+    },
+    {
+      "source": "мессенджер",
+      "target": "тип",
+      "weight": 7
+    },
+    {
+      "source": "мессенджер",
+      "target": "интерфейс",
+      "weight": 4
+    },
+    {
+      "source": "мессенджер",
+      "target": "пользователь",
+      "weight": 1
+    },
+    {
+      "source": "тип",
+      "target": "интерфейс",
+      "weight": 2
+    },
+    {
+      "source": "тип",
+      "target": "настройк",
+      "weight": 12
+    },
+    {
+      "source": "тип",
+      "target": "рассылк",
+      "weight": 16
+    },
+    {
+      "source": "тип",
+      "target": "событ",
+      "weight": 13
+    },
+    {
+      "source": "тип",
+      "target": "аргумент",
+      "weight": 6
+    },
+    {
+      "source": "тип",
+      "target": "диалог",
+      "weight": 4
+    },
+    {
+      "source": "тип",
+      "target": "идентификатор",
+      "weight": 12
+    },
+    {
+      "source": "тип",
+      "target": "макрос",
+      "weight": 9
+    },
+    {
+      "source": "тип",
+      "target": "ограничен",
+      "weight": 2
+    },
+    {
+      "source": "тип",
+      "target": "ошибк",
+      "weight": 6
+    },
+    {
+      "source": "тип",
+      "target": "редактирован",
+      "weight": 1
+    },
+    {
+      "source": "тип",
+      "target": "тег",
+      "weight": 9
+    },
+    {
+      "source": "тип",
+      "target": "тест",
+      "weight": 4
+    },
+    {
+      "source": "тип",
+      "target": "пользователь",
+      "weight": 1
+    },
+    {
+      "source": "аргумент",
+      "target": "диалог",
+      "weight": 2
+    },
+    {
+      "source": "аргумент",
+      "target": "идентификатор",
+      "weight": 5
+    },
+    {
+      "source": "аргумент",
+      "target": "макрос",
+      "weight": 6
+    },
+    {
+      "source": "аргумент",
+      "target": "настройк",
+      "weight": 5
+    },
+    {
+      "source": "аргумент",
+      "target": "ограничен",
+      "weight": 2
+    },
+    {
+      "source": "аргумент",
+      "target": "ошибк",
+      "weight": 2
+    },
+    {
+      "source": "аргумент",
+      "target": "рассылк",
+      "weight": 10
+    },
+    {
+      "source": "аргумент",
+      "target": "редактирован",
+      "weight": 1
+    },
+    {
+      "source": "аргумент",
+      "target": "событ",
+      "weight": 10
+    },
+    {
+      "source": "аргумент",
+      "target": "тег",
+      "weight": 6
+    },
+    {
+      "source": "аргумент",
+      "target": "тест",
+      "weight": 5
+    },
+    {
+      "source": "аргумент",
+      "target": "интерфейс",
+      "weight": 1
+    },
+    {
+      "source": "аргумент",
+      "target": "пользователь",
+      "weight": 3
+    },
+    {
+      "source": "диалог",
+      "target": "рассылк",
+      "weight": 14
+    },
+    {
+      "source": "диалог",
+      "target": "идентификатор",
+      "weight": 7
+    },
+    {
+      "source": "диалог",
+      "target": "макрос",
+      "weight": 7
+    },
+    {
+      "source": "диалог",
+      "target": "настройк",
+      "weight": 9
+    },
+    {
+      "source": "диалог",
+      "target": "ограничен",
+      "weight": 6
+    },
+    {
+      "source": "диалог",
+      "target": "ошибк",
+      "weight": 7
+    },
+    {
+      "source": "диалог",
+      "target": "редактирован",
+      "weight": 1
+    },
+    {
+      "source": "диалог",
+      "target": "событ",
+      "weight": 9
+    },
+    {
+      "source": "диалог",
+      "target": "тег",
+      "weight": 5
+    },
+    {
+      "source": "диалог",
+      "target": "тест",
+      "weight": 4
+    },
+    {
+      "source": "диалог",
+      "target": "валидац",
+      "weight": 2
+    },
+    {
+      "source": "тест",
+      "target": "идентификатор",
+      "weight": 6
+    },
+    {
+      "source": "тест",
+      "target": "макрос",
+      "weight": 6
+    },
+    {
+      "source": "тест",
+      "target": "настройк",
+      "weight": 6
+    },
+    {
+      "source": "тест",
+      "target": "ограничен",
+      "weight": 5
+    },
+    {
+      "source": "тест",
+      "target": "ошибк",
+      "weight": 5
+    },
+    {
+      "source": "тест",
+      "target": "рассылк",
+      "weight": 10
+    },
+    {
+      "source": "тест",
+      "target": "редактирован",
+      "weight": 1
+    },
+    {
+      "source": "тест",
+      "target": "событ",
+      "weight": 9
+    },
+    {
+      "source": "тест",
+      "target": "тег",
+      "weight": 5
+    },
+    {
+      "source": "тест",
+      "target": "валидац",
+      "weight": 3
+    },
+    {
+      "source": "тест",
+      "target": "интерфейс",
+      "weight": 1
+    },
+    {
+      "source": "тест",
+      "target": "пользователь",
+      "weight": 2
+    },
+    {
+      "source": "настройк",
+      "target": "интерфейс",
+      "weight": 2
+    },
+    {
+      "source": "настройк",
+      "target": "рассылк",
+      "weight": 29
+    },
+    {
+      "source": "настройк",
+      "target": "событ",
+      "weight": 17
+    },
+    {
+      "source": "настройк",
+      "target": "идентификатор",
+      "weight": 11
+    },
+    {
+      "source": "настройк",
+      "target": "макрос",
+      "weight": 13
+    },
+    {
+      "source": "настройк",
+      "target": "ограничен",
+      "weight": 10
+    },
+    {
+      "source": "настройк",
+      "target": "ошибк",
+      "weight": 10
+    },
+    {
+      "source": "настройк",
+      "target": "редактирован",
+      "weight": 3
+    },
+    {
+      "source": "настройк",
+      "target": "тег",
+      "weight": 13
+    },
+    {
+      "source": "настройк",
+      "target": "валидац",
+      "weight": 3
+    },
+    {
+      "source": "событ",
+      "target": "интерфейс",
+      "weight": 5
+    },
+    {
+      "source": "событ",
+      "target": "рассылк",
+      "weight": 45
+    },
+    {
+      "source": "событ",
+      "target": "идентификатор",
+      "weight": 20
+    },
+    {
+      "source": "событ",
+      "target": "макрос",
+      "weight": 16
+    },
+    {
+      "source": "событ",
+      "target": "ограничен",
+      "weight": 6
+    },
+    {
+      "source": "событ",
+      "target": "ошибк",
+      "weight": 14
+    },
+    {
+      "source": "событ",
+      "target": "редактирован",
+      "weight": 4
+    },
+    {
+      "source": "событ",
+      "target": "тег",
+      "weight": 14
+    },
+    {
+      "source": "событ",
+      "target": "валидац",
+      "weight": 2
+    },
+    {
+      "source": "событ",
+      "target": "пользователь",
+      "weight": 3
+    },
+    {
+      "source": "ограничен",
+      "target": "идентификатор",
+      "weight": 7
+    },
+    {
+      "source": "ограничен",
+      "target": "макрос",
+      "weight": 5
+    },
+    {
+      "source": "ограничен",
+      "target": "ошибк",
+      "weight": 5
+    },
+    {
+      "source": "ограничен",
+      "target": "рассылк",
+      "weight": 11
+    },
+    {
+      "source": "ограничен",
+      "target": "редактирован",
+      "weight": 1
+    },
+    {
+      "source": "ограничен",
+      "target": "тег",
+      "weight": 4
+    },
+    {
+      "source": "ограничен",
+      "target": "валидац",
+      "weight": 3
+    },
+    {
+      "source": "ограничен",
+      "target": "интерфейс",
+      "weight": 1
+    },
+    {
+      "source": "рассылк",
+      "target": "интерфейс",
+      "weight": 5
+    },
+    {
+      "source": "рассылк",
+      "target": "идентификатор",
+      "weight": 29
+    },
+    {
+      "source": "рассылк",
+      "target": "макрос",
+      "weight": 20
+    },
+    {
+      "source": "рассылк",
+      "target": "ошибк",
+      "weight": 18
+    },
+    {
+      "source": "рассылк",
+      "target": "редактирован",
+      "weight": 9
+    },
+    {
+      "source": "рассылк",
+      "target": "тег",
+      "weight": 21
+    },
+    {
+      "source": "рассылк",
+      "target": "валидац",
+      "weight": 3
+    },
+    {
+      "source": "рассылк",
+      "target": "пользователь",
+      "weight": 3
+    },
+    {
+      "source": "редактирован",
+      "target": "идентификатор",
+      "weight": 4
+    },
+    {
+      "source": "редактирован",
+      "target": "макрос",
+      "weight": 1
+    },
+    {
+      "source": "редактирован",
+      "target": "ошибк",
+      "weight": 3
+    },
+    {
+      "source": "редактирован",
+      "target": "тег",
+      "weight": 3
+    },
+    {
+      "source": "интерфейс",
+      "target": "идентификатор",
+      "weight": 3
+    },
+    {
+      "source": "интерфейс",
+      "target": "пользователь",
+      "weight": 1
+    },
+    {
+      "source": "идентификатор",
+      "target": "макрос",
+      "weight": 15
+    },
+    {
+      "source": "идентификатор",
+      "target": "ошибк",
+      "weight": 14
+    },
+    {
+      "source": "идентификатор",
+      "target": "тег",
+      "weight": 12
+    },
+    {
+      "source": "идентификатор",
+      "target": "валидац",
+      "weight": 3
+    },
+    {
+      "source": "идентификатор",
+      "target": "пользователь",
+      "weight": 1
+    },
+    {
+      "source": "тег",
+      "target": "макрос",
+      "weight": 11
+    },
+    {
+      "source": "тег",
+      "target": "ошибк",
+      "weight": 8
+    },
+    {
+      "source": "тег",
+      "target": "валидац",
+      "weight": 2
+    },
+    {
+      "source": "макрос",
+      "target": "ошибк",
+      "weight": 14
+    },
+    {
+      "source": "макрос",
+      "target": "валидац",
+      "weight": 3
+    },
+    {
+      "source": "валидац",
+      "target": "ошибк",
+      "weight": 3
+    }
+  ]
+}
