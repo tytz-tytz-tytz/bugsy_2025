@@ -1,0 +1,33 @@
+[project]
+name = "bugsy_2025"
+version = "0.1.0"
+description = "Учебная практика весна 2025"
+authors = [
+  { name = "Александра Решетникова", email = "alexsachare239@gmail.com" }
+]
+readme = "README.md"
+requires-python = ">=3.8"
+
+dependencies = [
+  "pdfminer.six>=20201018",
+  "networkx",
+  "matplotlib",
+  "nltk",
+  "snowballstemmer",
+  "sentence-transformers",
+  "faiss-cpu",
+  "pymorphy2",
+  "ipykernel", 
+  "notebook"
+]
+
+[project.optional-dependencies]
+viz = ["pyvis", "jinja2"]
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["chunker", "semantic", "graph_search", "prompts_with_results"]

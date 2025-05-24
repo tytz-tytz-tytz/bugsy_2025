@@ -1,0 +1,7 @@
+pdfminer.six>=20201018
+networkx
+matplotlib
+notebook
+ipykernel
+pyvis
+jinja2
