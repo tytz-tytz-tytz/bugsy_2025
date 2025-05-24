@@ -9,6 +9,10 @@
 
 ---
 
+## Требования
+
+* Python 3.8+
+
 ## Установка
 
 1. Клонируйте репозиторий и создайте виртуальное окружение:
@@ -117,17 +121,6 @@ bugsy_2025/
 ├── requirements.txt
 ├── README.md
 ```
-
----
-
-## Требования
-
-* Python 3.8+
-* `pdfminer.six`, `nltk`, `networkx`, `matplotlib`, `snowballstemmer`
-* `sentence-transformers`, `faiss-cpu`, `pymorphy2`
-
-Все зависимости устанавливаются через `pip install -e .` внутри виртуального окружения
-
 ---
 
 ## Автор
