@@ -1,0 +1,352 @@
+{
+  "nodes": [
+    {
+      "id": "интерфейс",
+      "title": "интерфейс",
+      "level": 1,
+      "is_leaf": true
+    },
+    {
+      "id": "ошибк",
+      "title": "ошибк",
+      "level": 1,
+      "is_leaf": true
+    },
+    {
+      "id": "идентификатор",
+      "title": "идентификатор",
+      "level": 1,
+      "is_leaf": true
+    },
+    {
+      "id": "тест",
+      "title": "тест",
+      "level": 1,
+      "is_leaf": true
+    },
+    {
+      "id": "диалог",
+      "title": "диалог",
+      "level": 1,
+      "is_leaf": true
+    },
+    {
+      "id": "тип",
+      "title": "тип",
+      "level": 1,
+      "is_leaf": true
+    },
+    {
+      "id": "настройк",
+      "title": "настройк",
+      "level": 1,
+      "is_leaf": true
+    },
+    {
+      "id": "редактирован",
+      "title": "редактирован",
+      "level": 1,
+      "is_leaf": true
+    },
+    {
+      "id": "тег",
+      "title": "тег",
+      "level": 1,
+      "is_leaf": true
+    },
+    {
+      "id": "мессенджер",
+      "title": "мессенджер",
+      "level": 1,
+      "is_leaf": true
+    },
+    {
+      "id": "рассылк",
+      "title": "рассылк",
+      "level": 1,
+      "is_leaf": true
+    },
+    {
+      "id": "событ",
+      "title": "событ",
+      "level": 1,
+      "is_leaf": true
+    },
+    {
+      "id": "аргумент",
+      "title": "аргумент",
+      "level": 1,
+      "is_leaf": true
+    },
+    {
+      "id": "макрос",
+      "title": "макрос",
+      "level": 1,
+      "is_leaf": true
+    },
+    {
+      "id": "блок",
+      "title": "блок",
+      "level": 1,
+      "is_leaf": true
+    },
+    {
+      "id": "ограничен",
+      "title": "ограничен",
+      "level": 1,
+      "is_leaf": true
+    }
+  ],
+  "edges": [
+    {
+      "source": "интерфейс",
+      "target": "настройк",
+      "weight": 1
+    },
+    {
+      "source": "интерфейс",
+      "target": "рассылк",
+      "weight": 3
+    },
+    {
+      "source": "интерфейс",
+      "target": "событ",
+      "weight": 3
+    },
+    {
+      "source": "интерфейс",
+      "target": "тип",
+      "weight": 1
+    },
+    {
+      "source": "интерфейс",
+      "target": "идентификатор",
+      "weight": 1
+    },
+    {
+      "source": "ошибк",
+      "target": "рассылк",
+      "weight": 3
+    },
+    {
+      "source": "ошибк",
+      "target": "идентификатор",
+      "weight": 2
+    },
+    {
+      "source": "ошибк",
+      "target": "макрос",
+      "weight": 2
+    },
+    {
+      "source": "идентификатор",
+      "target": "настройк",
+      "weight": 3
+    },
+    {
+      "source": "идентификатор",
+      "target": "рассылк",
+      "weight": 14
+    },
+    {
+      "source": "идентификатор",
+      "target": "тест",
+      "weight": 1
+    },
+    {
+      "source": "идентификатор",
+      "target": "макрос",
+      "weight": 5
+    },
+    {
+      "source": "идентификатор",
+      "target": "мессенджер",
+      "weight": 2
+    },
+    {
+      "source": "идентификатор",
+      "target": "событ",
+      "weight": 9
+    },
+    {
+      "source": "идентификатор",
+      "target": "тип",
+      "weight": 2
+    },
+    {
+      "source": "идентификатор",
+      "target": "тег",
+      "weight": 4
+    },
+    {
+      "source": "тест",
+      "target": "настройк",
+      "weight": 1
+    },
+    {
+      "source": "тест",
+      "target": "рассылк",
+      "weight": 1
+    },
+    {
+      "source": "диалог",
+      "target": "рассылк",
+      "weight": 1
+    },
+    {
+      "source": "тип",
+      "target": "настройк",
+      "weight": 5
+    },
+    {
+      "source": "тип",
+      "target": "рассылк",
+      "weight": 5
+    },
+    {
+      "source": "тип",
+      "target": "событ",
+      "weight": 4
+    },
+    {
+      "source": "тип",
+      "target": "блок",
+      "weight": 1
+    },
+    {
+      "source": "тип",
+      "target": "макрос",
+      "weight": 2
+    },
+    {
+      "source": "тип",
+      "target": "тег",
+      "weight": 1
+    },
+    {
+      "source": "настройк",
+      "target": "рассылк",
+      "weight": 16
+    },
+    {
+      "source": "настройк",
+      "target": "событ",
+      "weight": 6
+    },
+    {
+      "source": "настройк",
+      "target": "тег",
+      "weight": 3
+    },
+    {
+      "source": "настройк",
+      "target": "ограничен",
+      "weight": 2
+    },
+    {
+      "source": "настройк",
+      "target": "блок",
+      "weight": 2
+    },
+    {
+      "source": "настройк",
+      "target": "макрос",
+      "weight": 3
+    },
+    {
+      "source": "настройк",
+      "target": "мессенджер",
+      "weight": 1
+    },
+    {
+      "source": "редактирован",
+      "target": "рассылк",
+      "weight": 2
+    },
+    {
+      "source": "тег",
+      "target": "рассылк",
+      "weight": 10
+    },
+    {
+      "source": "тег",
+      "target": "событ",
+      "weight": 5
+    },
+    {
+      "source": "тег",
+      "target": "макрос",
+      "weight": 2
+    },
+    {
+      "source": "мессенджер",
+      "target": "макрос",
+      "weight": 1
+    },
+    {
+      "source": "мессенджер",
+      "target": "рассылк",
+      "weight": 3
+    },
+    {
+      "source": "мессенджер",
+      "target": "событ",
+      "weight": 1
+    },
+    {
+      "source": "рассылк",
+      "target": "событ",
+      "weight": 29
+    },
+    {
+      "source": "рассылк",
+      "target": "блок",
+      "weight": 8
+    },
+    {
+      "source": "рассылк",
+      "target": "макрос",
+      "weight": 9
+    },
+    {
+      "source": "рассылк",
+      "target": "аргумент",
+      "weight": 1
+    },
+    {
+      "source": "рассылк",
+      "target": "ограничен",
+      "weight": 3
+    },
+    {
+      "source": "событ",
+      "target": "блок",
+      "weight": 2
+    },
+    {
+      "source": "событ",
+      "target": "макрос",
+      "weight": 7
+    },
+    {
+      "source": "событ",
+      "target": "аргумент",
+      "weight": 1
+    },
+    {
+      "source": "событ",
+      "target": "ограничен",
+      "weight": 1
+    },
+    {
+      "source": "макрос",
+      "target": "блок",
+      "weight": 1
+    },
+    {
+      "source": "блок",
+      "target": "ограничен",
+      "weight": 1
+    }
+  ]
+}
